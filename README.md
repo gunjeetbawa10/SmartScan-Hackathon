@@ -4,7 +4,7 @@ Its a script through the which the users can that whether they are suffering fro
 
 <b>Run the Project</b>
 
-1. You need to have the Tensorflow,keras,PIL installed in there system.
+1. You need to have the Tensorflow, keras, PIL installed in there system.
 
 2. We have the jupyter notebook with the trained model in it.
 
